@@ -44,13 +44,13 @@ body {
     position: relative;
     Left: -8px;
     width: 100vw;
-    height: 50vh;
+    height: 30vh;
     padding-top: 3em;
     background-image: url("https://images.unsplash.com/photo-1506773090264-ac0b07293a64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80");
     background-size:cover; background-repeat:no-repeat;
     }  
   .header-tag {
-    text-align: cneter;
+    text-align: center;
     color: darkred;
     text-shdow: 2px 2px 2px black;
   }
@@ -70,21 +70,51 @@ body {
     display: incline-block;
   }
   #about-picture {
-    width: 30vw;
+    width: 100vw;
     float: left;
   }
   #profile-pic {
-    height: 200px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     object-fit: cover;
     border-radis: 0.4em;
     box-shadow: 2px 2px 2px black
   }
   #about-content {
-    width: 40vw;
+    width: 100vw;
     float: right;
   }
+#contact-form {
+  margin: auto;
+  margin-top: 100px;
+  width: 30vw;
+  background-color: grey;
+  text-align: center;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 50px;
+  border-radius: .4em;
+}
+#contact-form input {
+  width: 90%;
+  margin-bottom: 20px;
+  height: 50px;
+  font-size: 18px;
+  text-align: center;
+}
+#contact-form h2 {
+  color: white;
+  font-size: 28px;
+  text-shadow: 2px 2px 2px black;
+}
+textarea {
+  resize: none;
+  height: 200px;
+  width: 90%;
+  margin-bottom: 30px;
+}
 
+ 
 
 
  
