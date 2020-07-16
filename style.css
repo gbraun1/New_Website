@@ -46,7 +46,7 @@ body {
     width: 100vw;
     height: 30vh;
     padding-top: 3em;
-    background-image: url("https://images.unsplash.com/photo-1506773090264-ac0b07293a64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80");
+    background-image: url(https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
     background-size:cover; background-repeat:no-repeat;
     }  
   .header-tag {
